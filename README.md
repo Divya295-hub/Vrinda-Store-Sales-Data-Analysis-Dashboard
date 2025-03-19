@@ -15,8 +15,8 @@ The objective of this project is to analyze the sales data of Vrinda Stores to u
 ## Dataset Used
 <a href='https://github.com/Divya295-hub/Vrinda-Store-Sales-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dataset.xlsx'>Vrinda Store Dataset</a>
 
-## Dashboard Interaction
-<a href='https://github.com/Divya295-hub/Vrinda-Store-Sales-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Dashboard%20Image.png'>Vrinda Store Dashboard Image</a>
+## Vrinda Store Sales Analysis Dashboard
+![Vrinda Store Dashboard Image](https://github.com/user-attachments/assets/6ef2bc1b-6f55-4700-bdf1-2cb8acd64bfd)
 
 ## Key Performance Indicators
 <p>
